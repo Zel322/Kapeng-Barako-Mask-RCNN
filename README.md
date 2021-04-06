@@ -15,7 +15,7 @@ Clone this repository
   
 2. upload the zip file to drive (Colab Notebook folder)
 
-3. upload the dataset zip file to drive (Colab Notebook folder)
+3. download the dataset from https://drive.google.com/file/d/1pfVNJoSP0Vpqwv5dxIQo2ibfd7Jv_Wmz/view?usp=sharing and upload to drive (Colab Notebook folder)
 
 4. go to the Colab Notebook (Download and extract dataset and other uploaded files section) and update the fileIDs
 
