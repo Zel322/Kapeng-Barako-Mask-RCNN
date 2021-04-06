@@ -31,7 +31,7 @@ sys.path.append(ROOT_DIR)  # To find local version of the library
 
 custom_WEIGHTS_PATH = sorted(glob.glob("/root/Mask_RCNN/uploads/mask_rcnn_barako_0050.h5"))[-1] #modify if using different weights
 
-#%matplotlib inline 
+
 
 # Directory to save logs and trained model
 MODEL_DIR = os.path.join(ROOT_DIR, "logs")
