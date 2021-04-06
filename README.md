@@ -2,7 +2,8 @@
 
 Clone this repository
 
-1. zip the ff. files to one zip file
+1. zip the ff. files to one zip file (download weights from https://drive.google.com/drive/folders/1Mlg9jDKMrsO7X-9IUdm42f4OBRgVYuWL?usp=sharing)
+
 	-barako_inference.py
 	-barako_v2.py
 	-modified_utils
