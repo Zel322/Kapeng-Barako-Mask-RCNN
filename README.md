@@ -5,13 +5,21 @@ Clone this repository
 1. zip the ff. files to one zip file (download weights from https://drive.google.com/drive/folders/1Mlg9jDKMrsO7X-9IUdm42f4OBRgVYuWL?usp=sharing)
 
 	-barako_inference.py
+	
 	-barako_v2.py
+	
 	-modified_utils
+	
 	-modified_model
+	
 	-modified_visualize
+	
 	-libcudnn7_7.0.5.15-1+cuda9.0_amd64.deb
+	
 	-mask_rcnn_barako_0015.h5
+	
 	-mask_rcnn_barako_0030.h5
+	
 	-mask_rcnn_barako_0050.h5
   
 2. upload the zip file to drive (Colab Notebook folder)
